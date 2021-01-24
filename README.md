@@ -1,5 +1,7 @@
 # Metric-Trading-Comp
 Project Repo for Competition Related Activities and Resources
+
+
 Revision 1. 24/01/21
 
 
