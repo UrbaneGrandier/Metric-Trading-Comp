@@ -2,12 +2,19 @@
 Project Repo for Competition Related Activities and Resources
 Revision 1. 24/01/21
 
+
 1. Metric.exchange Stable Release.
+
 1.1 0x APIs - Do we have everything we need to rank the top 25 traders by USD vol?
+
 1.2 Trading Dashboard - @SHA2048 to create. Suggest link at top of main page to separate dashboard page with list of Top-25 addresses?
+
 1.3 Fee Structure Revisions - Currently 0.5%(?) for non-holders, 0% for holders of 1k METRIC. Suggest revision to 0.5% for non-holders, 0.25% for holders of the requisite quantity of METRIC. As there is only c. 400k METRIC in circulation perhaps it would be sensible to reduce the quantity required to between 200 and 500 so that up to 1-2 thousand users could enjoy the reduced rate? @UrbaneGrandier to gather consensus and put to Snapshot vote. @SHA2048 to update code to suit.
+
 1.4 Metric Documentation - Landing Page to be updated to reflect stable build at launch of competition.
+
 1.5 Platform Testing - @BUILDERS to spend some time testing metric.exchange on different OS/Browser configurations. bCRED tips to cover gas?
+
 
 2. Trading Competition.
 2.1 Competition Structure: $10000 worth of METRIC (45k METRIC) + 2000 DAI to giveaway over 10 days of trading. 
