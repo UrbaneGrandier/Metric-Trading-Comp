@@ -5,7 +5,7 @@ Project Repo for Competition Related Activities and Resources
 Revision 1. 24/01/21
 
 
-#1. Metric.exchange Stable Release.
+**1. Metric.exchange Stable Release.**
 
 1.1 0x APIs - Do we have everything we need to rank the top 25 traders by USD vol?
 
@@ -18,7 +18,7 @@ Revision 1. 24/01/21
 1.5 Platform Testing - @BUILDERS to spend some time testing metric.exchange on different OS/Browser configurations. bCRED tips to cover gas?
 
 
-2. Trading Competition.
+**2. Trading Competition.**
 
 2.1 Competition Structure: $10000 worth of METRIC (45k METRIC) + 2000 DAI to giveaway over 10 days of trading. 
 
@@ -37,7 +37,7 @@ Revision 1. 24/01/21
 2.5 LogRocket Subscription - Can a guardian tip @SHA2048 enought bCRED to cover the basic level ($99) of LogRocket subs... say 200 bCRED?
 
 
-3. Marketing
+**3. Marketing**
 
 3.1 Twitter - Propose weekly tweets from metric.exchange official twitter announcing product updates & trading competition teasers. @UrbaneGrandier to send to @0xdev0 to upload.
 
@@ -54,7 +54,7 @@ Revision 1. 24/01/21
 3.7 Memes - We could do a small meme contest in the memeroom and tip some bCRED for the best memes.
 
 
-4. Programme & Budget
+**4. Programme & Budget**
 
 4.1 Programme - Propose target date for start of competition 1st March 2021. Duration 10 days.
 
