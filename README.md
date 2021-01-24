@@ -5,7 +5,7 @@ Project Repo for Competition Related Activities and Resources
 Revision 1. 24/01/21
 
 
-1. Metric.exchange Stable Release.
+#1. Metric.exchange Stable Release.
 
 1.1 0x APIs - Do we have everything we need to rank the top 25 traders by USD vol?
 
