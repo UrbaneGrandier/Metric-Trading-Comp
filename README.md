@@ -2,67 +2,67 @@
 Project Repo for Competition Related Activities and Resources
 
 
-Revision 1. 24/01/21
+Revision 2. 28/02/21
 
 
 **1. Metric.exchange Stable Release.**
 
-1.1 0x APIs - Do we have everything we need to rank the top 25 traders by USD vol?
+1.1 0x APIs - UNDERWAY: SHA_2048 working to set up 0xTracker node for custom data pulls from 0x trades.
 
-1.2 Trading Dashboard - @SHA2048 to create. Suggest link at top of main page to separate dashboard page with list of Top-25 addresses?
+1.2 Trading Dashboard - COMPLETE? Check and fine tune once item 1.1 complete before publishing?
 
-1.3 Fee Structure Revisions - Currently 0.5%(?) for non-holders, 0% for holders of 1k METRIC. Suggest revision to 0.5% for non-holders, 0.25% for holders of the requisite quantity of METRIC. As there is only c. 400k METRIC in circulation perhaps it would be sensible to reduce the quantity required to between 200 and 500 so that up to 1-2 thousand users could enjoy the reduced rate? @UrbaneGrandier to gather consensus and put to Snapshot vote. @SHA2048 to update code to suit.
+1.3 Fee Structure Revisions - COMPLETE.
 
-1.4 Metric Documentation - Documentation page to be updated to reflect stable build at launch of competition.
+1.4 Metric Documentation - COMPLETE. Docs under review, competition specific T&Cs to be drafted by @UG for team comment.
 
-1.5 Platform Testing - @BUILDERS to spend some time testing metric.exchange on different OS/Browser configurations. bCRED tips to cover gas?
+1.5 Platform Testing - COMPLETE.
 
 
 **2. Trading Competition.**
 
-2.1 Competition Structure: $10000 worth of METRIC (45k METRIC) + 2000 DAI to giveaway over 10 days of trading. 
+2.1 Competition Structure (REVISED): 7500 METRIC ($25k+) + 2000 DAI to giveaway over 10 days of trading. 
 
-2.1.2 Overall Winners (29k): ranked by Trading Volume over entire period 1st to 25th (1st 5k METRIC + 1000 DAI; 2nd 4k+500; 3rd 3k+300; 4th 2k+200; 5-15th 1k; 16-25th 0.5k) 
+2.1.2 Overall Winners (5000 METRIC + 2000 DAI): ranked by Trading Volume over entire period 1st to 25th (1st 1000 METRIC + 1000 DAI; 2nd 500 METRIC + 500 DAI; 3rd 300 METRIC + 300DAI; 4th 200 METRIC + 200 DAI; 5-15th 200; 16-25th 100) 
 
-2.1.3 Extra Prizes (6K): Largest Individual Trade (2k), Most Trades (2k), Largest Individual Metric Trade (2k).
+2.1.3 Extra Prizes (1500 METRIC): Largest Individual Trade (500 METRIC), Most Trades (500 METRIC), Largest Individual Metric Trade (500 METRIC).
 
-2.1.4 Daily Winners (10k): Largest Volume (1k)
+2.1.4 Daily Winners (2000 METRIC): Largest Volume (200 METRIC)
 
-2.2 Terms & Conditions - Users must make a trade of any two tokens through the metric.exchange interface, including making or taking an order or by using the swap facility. The trading amount will be converted to equivalent USD value at the time of trade for the purposes of calculation. It is not essential to hold any METRIC in your wallet to be included in the competition, but holding the requisite amount will get the users a 50% discount on trading fees. @UrbaneGrandier to put together T&C documentation for inclusion in the documentation for the duration.
+2.2 Terms & Conditions - Users must make a trade of any two tokens through the metric.exchange interface, including making or taking an order or by using the swap facility. The trading amount will be converted to equivalent USD value at the time of trade for the purposes of calculation. It is not essential to hold any METRIC in your wallet to be included in the competition, but holding the requisite amount will get the users discounted trading fees as per the revised fee schedule. @UrbaneGrandier to put together T&C documentation for inclusion in the documentation for the duration.
 
-2.3 User Help Portal - TBC. Potential solutions: Dedicated discord server, TG group, chat bot?
+2.3 User Help Portal - TBC. Potential solutions: Dedicated discord server, TG group, chat bot? **Who can take ownership of this?**
 
-2.4 METRIC Liquidity Incentives - while METRIC has reasonable liquidity thanks to the Balancer pool there is practically no liquidity on Uniswap. Is it worth trying to incentivise some additional liquidity there or should we just encourage users to buy on metric.exchange instead?
+2.4 METRIC Liquidity Incentives - TO FOLLOW AFTER COMPETITION.
 
-2.5 LogRocket Subscription - Can a guardian tip @SHA2048 enought bCRED to cover the basic level ($99) of LogRocket subs... say 200 bCRED?
+2.5 LogRocket Subscription - STILL REQUIRED OR DO WE HAVE ANOTHER SOLUTION?
 
 
 **3. Marketing**
 
-3.1 Twitter - Propose weekly tweets from metric.exchange official twitter announcing product updates & trading competition teasers. @UrbaneGrandier to send to @0xdev0 to upload.
+3.1 Twitter - Propose weekly tweets from metric.exchange official twitter announcing product updates & trading competition teasers. @UrbaneGrandier to liaise with @SHA_2048.
 
-3.2 Medium - Propose new Medium posts on BUILD page outlining 1. product development & 2. announcing trading compeitition. Dates mid-late Feb. @SHA2048, @nickbtts, @0xdev0, @SonofIshtar to liaise and put these together?
+3.2 Medium - Propose new Medium posts on BUILD page outlining 1. product development & 2. announcing trading compeitition. Dates mid-March. @SHA2048, @nickbtts, @0xdev0, @SonofIshtar to liaise and put these together?
 
-3.3 Telegram - Propose new TG Announcement channel, read-only for normal users. This could simply mirror the twitter and medium posts.
+3.3 Telegram - Propose new TG Announcement channel, read-only for normal users. COMPLETE.
 
-3.4 0x - I believe @nikita mentioned that 0x were going to include some details about the competition in their newsletter TBC.
+3.4 0x - Can a link to the trading competitionbe included in the next 0x promotional release - publication deadline? @UG to speak to liaise with @nikita.
 
-3.5 Podcasts - @UrbaneGrandier to contact Bankless, the Uncommon Core, the Delphi Podcast, the Defiant, Alpha Exchange, Cryptotesters for quotes.
+3.5 Podcasts - @UrbaneGrandier to contact Bankless, the Uncommon Core, the Delphi Podcast, the Defiant, Alpha Exchange, Cryptotesters for quotes - ONGOING.
 
-3.6 Newsletters - @UrbaneGrandier to contact DeFi Pulse, Defirate and The Defiant for quotes.
+3.6 Newsletters - @UrbaneGrandier to contact DeFi Pulse, Defirate and The Defiant for quotes - ONGOING.
 
-3.7 Memes - Meme contest in the memeroom; tip some bCRED for the best memes.
+3.7 Memes - Meme contest in the memeroom; tip some bCRED for the best memes. @UG to announce; @Guardian to tip winners - proposed prizes 100 bCRED for best meme and three runners up of 50 bCRED each, TOTAL 250 bCRED.
 
 
 **4. Programme & Budget**
 
-4.1 Programme - Propose target date for start of competition 1st March 2021; Duration 10 days.
+4.1 Programme - Propose target date for start of competition 3rd Week March 2021; Duration 10 days.
 
-4.2 Competition Budget - Prizes of 45k METRIC to come from METRIC Treasury (Currently at 290k); 2k DAI to come from fees already generated by metric.exchange (currently at 1270 DAI and approx $1000 USDC). **Do we think using c. 15% of the METRIC treasury is too much for this? It won't take much to push the price of METRIC up from current rate of approx 20c to about $1 or more and I think $45k worth of prizes is too much for this competition. Thoughts?** 
+4.2 Competition Budget - Due to recent rise in price of METRIC tokens I have revised the prize pool as outlined in item 2.1 to a greatly reduced abount, roughly equivalent to 3% of the existing treasury. I think this is a more appropriate use of treasury funds than the previous allocation.
 
-4.3 Marketing Budget - This TBC once I have quotes back for podcast/newsletter advertorial. Will this come from METRIC or BUILD treasuries?
+4.3 Marketing Budget - This TBC once I have quotes back for podcast/newsletter advertorial. **Will this come from METRIC or BUILD treasuries?**
 
-4.4 Procedural - Governance vote required for Competition Budget & Marketing Budget. 
+4.4 Procedural - **Governance vote required for Competition Budget & Marketing Budget.** @UG to start discussion for both and put votes up to Snapshot during 1st Week March 2021.
 
 
 /END
